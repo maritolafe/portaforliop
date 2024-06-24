@@ -1,0 +1,26 @@
+<table id="carrera" class="tabla" >
+		<tr>
+			<th colspan="3" class="cabeza"><h3 >carrera:</h3>
+    </th>
+		</tr>
+  <tr>
+    <th>carreras</th>
+    <th>establecimiento</th>
+    <th>estado</th>
+  </tr>
+  <tr class="dato">
+    <td class="no" >ingenieria mecatronica</td>
+    <td class="no" >universidad nacional de lomas de zamora</td>
+    <td  class="no" >en proceso</td>
+  </tr>
+  <tr class="dato">
+    <td class="si">tramo pedadogico docente</td>
+    <td class="si">universidad nacional de lomas de zamora</td>
+    <td  class="si" >terminado</td>
+  </tr>
+  <tr class="dato" >
+    <td class="si">tecnico automotor</td>
+    <td class="si">E.E.T N°2 "Maria Eva DUARTE"</td>
+    <td  class="si">terminado</td>
+  </tr>
+</table>
